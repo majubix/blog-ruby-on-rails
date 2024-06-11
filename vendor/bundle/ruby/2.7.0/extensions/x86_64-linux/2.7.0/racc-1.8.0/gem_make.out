@@ -1,0 +1,15 @@
+current directory: /home/maria/Documentos/RubyTutorial/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20240607-68404-17ctq91.rb extconf.rb
+creating Makefile
+
+current directory: /home/maria/Documentos/RubyTutorial/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/maria/Documentos/RubyTutorial/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/maria/Documentos/RubyTutorial/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.8.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240607-68404-1amjx8v/racc
